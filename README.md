@@ -27,20 +27,11 @@
 
 </div>
 
-```
-    ████████▀▀▀████
-    ████████────▀██
-    ████████──█▄──█
-    ███▀▀▀██──█████
-    █▀──▄▄██──█████
-    █──█████──█████
-    █▄──▀▀▀──▄█████
-    ███▄▄▄▄▄███████
-```
+
 
 TikTok User Info Scraper & Username Reconnaissance Framework
 
-An advanced OSINT & cybersecurity reconnaissance tool for TikTok profile intelligence gathering, cross-platform username enumeration, and digital footprint analysis.
+A strategic OSINT & cybersecurity reconnaissance tool for TikTok profile intelligence gathering, cross-platform username enumeration, and digital footprint analysis.
 
 Features • Installation • Usage • Modules • Reports • Legal
 
