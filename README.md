@@ -4,12 +4,28 @@
 </p>
 
 <div align="center">
+<div align="center">
 
-https://img.shields.io/badge/version-2.0-cyan?style=for-the-badge&logo=appveyor
-https://img.shields.io/badge/platform-Linux%20%7C%20Termux%20%7C%20macOS-blue?style=for-the-badge
-https://img.shields.io/badge/language-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white
-https://img.shields.io/badge/license-MIT-red?style=for-the-badge
-https://img.shields.io/badge/status-active-success?style=for-the-badge
+# TikTap
+
+<p><strong>⚡ TikTap — Project Toolkit</strong></p>
+
+<img src="https://img.shields.io/badge/TikTap-GITHUB%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="TikTap">
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=for-the-badge" alt="Project Status">
+<img src="https://img.shields.io/badge/PLATFORM-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+
+<br>
+
+<img src="https://img.shields.io/github/stars/sylhetyhackvenger/TikTap?style=for-the-badge&color=F59E0B&logo=github" alt="GitHub Stars">
+<img src="https://img.shields.io/github/forks/sylhetyhackvenger/TikTap?style=for-the-badge&color=8B5CF6&logo=github" alt="GitHub Forks">
+<img src="https://img.shields.io/github/issues/sylhetyhackvenger/TikTap?style=for-the-badge&color=EF4444" alt="GitHub Issues">
+<img src="https://img.shields.io/github/last-commit/sylhetyhackvenger/TikTap?style=for-the-badge&color=06B6D4" alt="Last Commit">
+
+<br>
+
+<img src="https://img.shields.io/badge/MAINTAINER-SYLHETYHACKVENGER-2563EB?style=for-the-badge" alt="Maintainer">
+
+</div>
 
 ```
     ████████▀▀▀████
