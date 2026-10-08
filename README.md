@@ -254,8 +254,8 @@ Get TikTap
 
 ```bash
 # Clone the repository
-git clone https://github.com/sylhetyhackvenger/tiktap.git
-cd tiktap
+git clone https://github.com/sylhetyhackvenger/TikTap 
+cd TikTap 
 
 # Make it executable
 chmod +x tiktap.sh
